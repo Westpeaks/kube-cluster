@@ -68,7 +68,7 @@ data:
   config.yaml: |
     # Name of the tunnel you want to run
     
-    tunnel: ld
+    tunnel: 99355155-f8cb-4604-a6a5-268845244867
 
     credentials-file: /etc/cloudflared/creds/credentials.json
 
